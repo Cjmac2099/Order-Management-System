@@ -1,0 +1,8 @@
+Loading catalog...
+Enter 'END' to finish order.
+SKU> 
+SKU matches product Canned Apricots packed in syrup or water, price per pound: $2.24
+Quantity>
+SKU> 
+Printing order summary:
+71.50lbs Canned Apricots packed in syrup or water: $159.89

@@ -1,0 +1,196 @@
+Loading catalog...
+Enter 'END' to finish order.
+SKU> 
+SKU matches product Fresh Broccoli florets, price per pound: $2.92
+Quantity>
+SKU> 
+SKU matches product Fresh Carrots raw whole, price per pound: $0.98
+Quantity>
+SKU> 
+SKU matches product Frozen Green peas, price per pound: $2.00
+Quantity>
+SKU> 
+SKU matches product Fresh Cucumbers with peel, price per pound: $1.25
+Quantity>
+SKU> 
+SKU matches product Fresh Kale, price per pound: $3.43
+Quantity>
+SKU> 
+SKU matches product Canned Pears packed in juice, price per pound: $2.14
+Quantity>
+SKU> 
+SKU matches product Canned Fruit cocktail packed in juice, price per pound: $2.39
+Quantity>
+SKU> 
+SKU matches product Fresh Oranges, price per pound: $1.46
+Quantity>
+SKU> 
+SKU matches product Canned Peaches packed in juice, price per pound: $2.25
+Quantity>
+SKU> 
+SKU matches product Juice Grapefruit ready-to-drink, price per pound: $1.19
+Quantity>
+SKU> 
+SKU matches product Canned Potatoes, price per pound: $1.03
+Quantity>
+SKU> 
+SKU matches product Canned Peaches packed in syrup or water, price per pound: $2.01
+Quantity>
+SKU> 
+SKU matches product Fresh Lettuce iceberg, price per pound: $1.25
+Quantity>
+SKU> 
+SKU matches product Frozen Spinach, price per pound: $2.28
+Quantity>
+SKU> 
+SKU matches product Dried Grapes (raisins), price per pound: $3.99
+Quantity>
+SKU> 
+SKU matches product Frozen Mustard greens, price per pound: $2.43
+Quantity>
+SKU> 
+SKU matches product Juice Pomegranate ready-to-drink, price per pound: $3.28
+Quantity>
+SKU> 
+SKU matches product Canned Apricots packed in syrup or water, price per pound: $2.24
+Quantity>
+SKU> 
+SKU matches product Dried Lima beans, price per pound: $2.39
+Quantity>
+SKU> 
+SKU matches product Fresh Asparagus, price per pound: $2.95
+Quantity>
+SKU> 
+SKU matches product Canned Turnip greens, price per pound: $1.32
+Quantity>
+SKU> 
+SKU matches product Dried Plum (prunes), price per pound: $6.33
+Quantity>
+SKU> 
+SKU matches product Fresh Potatoes, price per pound: $0.82
+Quantity>
+SKU> 
+SKU matches product Fresh Acorn squash, price per pound: $1.21
+Quantity>
+SKU> 
+SKU matches product Fresh Pomegranate, price per pound: $2.47
+Quantity>
+SKU> 
+SKU matches product Fresh Apricots, price per pound: $3.62
+Quantity>
+SKU> 
+SKU matches product Fresh Grapes, price per pound: $2.04
+Quantity>
+SKU> 
+SKU matches product Dried Apricots, price per pound: $7.66
+Quantity>
+SKU> 
+SKU matches product Dried Great northern beans, price per pound: $1.72
+Quantity>
+SKU> 
+SKU matches product Canned Tomatoes, price per pound: $1.07
+Quantity>
+SKU> 
+SKU matches product Fresh Avocados, price per pound: $2.67
+Quantity>
+SKU> 
+SKU matches product Canned Peaches packed in syrup or water, price per pound: $2.01
+Quantity>
+SKU> 
+SKU matches product Frozen Spinach, price per pound: $2.28
+Quantity>
+SKU> 
+SKU matches product Fresh Cucumbers with peel, price per pound: $1.25
+Quantity>
+SKU> 
+SKU matches product Frozen Carrots, price per pound: $1.73
+Quantity>
+SKU> 
+SKU matches product Fresh Turnip greens, price per pound: $2.92
+Quantity>
+SKU> 
+SKU matches product Canned Carrots, price per pound: $1.20
+Quantity>
+SKU> 
+SKU matches product Canned Black beans, price per pound: $1.24
+Quantity>
+SKU> 
+SKU matches product Fresh Papaya, price per pound: $1.34
+Quantity>
+SKU> 
+SKU matches product Canned Fruit cocktail packed in syrup or water, price per pound: $2.10
+Quantity>
+SKU> 
+SKU matches product Fresh Mangoes, price per pound: $1.47
+Quantity>
+SKU> 
+SKU matches product Fresh Asparagus, price per pound: $2.95
+Quantity>
+SKU> 
+SKU matches product Canned Peaches packed in juice, price per pound: $2.25
+Quantity>
+SKU> 
+SKU matches product Fresh Bananas, price per pound: $0.60
+Quantity>
+SKU> 
+SKU matches product Juice Oranges frozen concentrate, price per pound: $0.73
+Quantity>
+SKU> 
+SKU matches product Canned Cabbage sauerkraut, price per pound: $1.48
+Quantity>
+SKU> 
+SKU matches product Fresh Collard greens, price per pound: $3.09
+Quantity>
+SKU> 
+SKU matches product Dried Apricots, price per pound: $7.66
+Quantity>
+SKU> 
+Printing order summary:
+79.25lbs Fresh Broccoli florets: $231.11
+69.68lbs Fresh Carrots raw whole: $68.01
+44.41lbs Frozen Green peas: $88.64
+79.29lbs Fresh Cucumbers with peel: $98.90
+5.47lbs Fresh Kale: $18.78
+47.42lbs Canned Pears packed in juice: $101.48
+53.81lbs Canned Fruit cocktail packed in juice: $128.82
+12.12lbs Fresh Oranges: $17.72
+2.35lbs Canned Peaches packed in juice: $5.29
+73.56lbs Juice Grapefruit ready-to-drink: $87.79
+95.86lbs Canned Potatoes: $98.41
+89.01lbs Canned Peaches packed in syrup or water: $178.93
+23.79lbs Fresh Lettuce iceberg: $29.77
+0.04lbs Frozen Spinach: $0.09
+57.89lbs Dried Grapes (raisins): $231.19
+41.08lbs Frozen Mustard greens: $99.92
+33.26lbs Juice Pomegranate ready-to-drink: $109.05
+4.58lbs Canned Apricots packed in syrup or water: $10.24
+12.37lbs Dried Lima beans: $29.61
+97.71lbs Fresh Asparagus: $288.55
+4.24lbs Canned Turnip greens: $5.58
+23.18lbs Dried Plum (prunes): $146.71
+48.09lbs Fresh Potatoes: $39.27
+96.88lbs Fresh Acorn squash: $117.57
+76.32lbs Fresh Pomegranate: $188.30
+61.20lbs Fresh Apricots: $221.31
+54.76lbs Fresh Grapes: $111.51
+69.84lbs Dried Apricots: $535.05
+11.02lbs Dried Great northern beans: $18.96
+67.98lbs Canned Tomatoes: $72.84
+54.17lbs Fresh Avocados: $144.83
+33.09lbs Canned Peaches packed in syrup or water: $66.52
+19.83lbs Frozen Spinach: $45.20
+92.15lbs Fresh Cucumbers with peel: $114.94
+48.59lbs Frozen Carrots: $83.95
+77.09lbs Fresh Turnip greens: $225.49
+98.51lbs Canned Carrots: $118.01
+74.42lbs Canned Black beans: $92.18
+62.62lbs Fresh Papaya: $83.75
+24.09lbs Canned Fruit cocktail packed in syrup or water: $50.58
+5.27lbs Fresh Mangoes: $7.75
+38.16lbs Fresh Asparagus: $112.69
+35.52lbs Canned Peaches packed in juice: $79.93
+65.62lbs Fresh Bananas: $39.18
+68.45lbs Juice Oranges frozen concentrate: $50.23
+6.01lbs Canned Cabbage sauerkraut: $8.88
+6.19lbs Fresh Collard greens: $19.12
+37.10lbs Dried Apricots: $284.23

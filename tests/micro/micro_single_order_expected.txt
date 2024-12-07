@@ -1,0 +1,8 @@
+Loading catalog...
+Enter 'END' to finish order.
+SKU> 
+SKU matches product Juice Apples frozen concentrate, price per pound: $0.61
+Quantity>
+SKU> 
+Printing order summary:
+13.99lbs Juice Apples frozen concentrate: $8.51

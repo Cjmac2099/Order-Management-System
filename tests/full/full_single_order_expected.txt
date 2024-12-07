@@ -1,0 +1,8 @@
+Loading catalog...
+Enter 'END' to finish order.
+SKU> 
+SKU matches product Fresh Celery sticks, price per pound: $2.49
+Quantity>
+SKU> 
+Printing order summary:
+66.39lbs Fresh Celery sticks: $165.58

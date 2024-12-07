@@ -1,0 +1,20 @@
+Loading catalog...
+Enter 'END' to finish order.
+SKU> 
+SKU matches product Juice Apples frozen concentrate, price per pound: $0.61
+Quantity>
+SKU> 
+SKU matches product Juice Apples ready-to-drink, price per pound: $0.87
+Quantity>
+SKU> 
+SKU matches product Canned Apples applesauce, price per pound: $1.17
+Quantity>
+SKU> 
+SKU matches product Juice Apples frozen concentrate, price per pound: $0.61
+Quantity>
+SKU> 
+Printing order summary:
+35.66lbs Juice Apples frozen concentrate: $21.70
+21.00lbs Juice Apples ready-to-drink: $18.27
+59.01lbs Canned Apples applesauce: $69.07
+13.72lbs Juice Apples frozen concentrate: $8.35

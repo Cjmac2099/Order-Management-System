@@ -1,0 +1,32 @@
+Loading catalog...
+Enter 'END' to finish order.
+SKU> 
+SKU matches product Dried Apricots, price per pound: $7.66
+Quantity>
+SKU> 
+SKU matches product Fresh Apricots, price per pound: $3.62
+Quantity>
+SKU> 
+SKU matches product Juice Apples frozen concentrate, price per pound: $0.61
+Quantity>
+SKU> 
+SKU matches product Canned Apricots packed in juice, price per pound: $1.86
+Quantity>
+SKU> 
+SKU matches product Canned Apricots packed in juice, price per pound: $1.86
+Quantity>
+SKU> 
+SKU matches product Fresh Apricots, price per pound: $3.62
+Quantity>
+SKU> 
+SKU matches product Fresh Apples, price per pound: $1.85
+Quantity>
+SKU> 
+Printing order summary:
+6.43lbs Dried Apricots: $49.26
+82.07lbs Fresh Apricots: $296.78
+40.90lbs Juice Apples frozen concentrate: $24.89
+87.67lbs Canned Apricots packed in juice: $163.46
+47.20lbs Canned Apricots packed in juice: $88.00
+69.64lbs Fresh Apricots: $251.83
+56.98lbs Fresh Apples: $105.65
